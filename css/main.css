@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
 body {
     margin: 0;
+    font-family: 'Quicksand', sans-serif;
 }
 
 /* Estilos asociados al encabezado */
@@ -11,6 +13,7 @@ body {
     background-image: url(../img/header_background.jpeg);
     background-position: center;
     background-size:cover
+    
 }
 
 #header h1 {
@@ -53,4 +56,30 @@ body {
     #main h1 {
     font-size: 35px;
     }
+}
+iframe{
+    width: 100%;
+    height: 400%;
+}
+
+.font2 {
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+.imagenes {
+    width: 100%;
+}
+
+#fother {
+    text-align: center;
+    color: rgba(194, 194, 194, 0.986);
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
