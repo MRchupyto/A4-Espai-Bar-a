@@ -32,16 +32,16 @@ body {
 }
 
 #main {
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 1%;
+    padding-right: 1%;
 }
 
 #main p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 #main h1 {
-    font-size: 40px;
+    font-size: 35px;
 }
 h2{
     font-size: 25px;
