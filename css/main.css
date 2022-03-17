@@ -10,7 +10,7 @@ body {
     /* propiedad que permite alterar la altura */
 
     height: 100vh;
-    background-image: url(../img/header_background.jpeg);
+    background-image: url(../img/thumb-1920-462309.jpg);
     background-position: center;
     background-size:cover
     
@@ -87,4 +87,10 @@ iframe{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+span {
+        font-size: 45px;
+        border-radius: 5px;
+        background:linear-gradient(30deg, rgba(233, 218, 7, 0.605),rgba(230, 6, 6, 0.796), rgba(226, 211, 5, 0.551), rgba(241, 16, 16, 0.517), rgba(226, 230, 14, 0.503)) ;
+        
 }
